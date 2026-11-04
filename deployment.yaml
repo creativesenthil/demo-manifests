@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: senthilkumarsoundararajan/demo-app:v0
+          image: senthilkumarsoundararajan/demo-app:v2
           ports:
             - containerPort: 8080
