@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - senthilkumarsoundararajan/demo-app:v3
